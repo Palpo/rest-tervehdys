@@ -1,7 +1,7 @@
 rest-tervehdys
 ==============
 
-Yksinkertainen REST-palvelu Pythonilla
+Ääriyksinkertainen REST-palvelu Pythonilla
 
 ## Ajo-ohjeet
 
