@@ -3,7 +3,7 @@ import urlparse
 
 
 class Palvelu(BaseHTTPRequestHandler):
-    """ GET /tervehdys/Ahto """
+
     def do_GET(self):
         uri = urlparse.urlparse(self.path)
         path = uri.path.strip('/').split('/')
